@@ -2,7 +2,7 @@
 
 This is a project to detect number plates. It is a long term project where i will occationally improve it and add additional features to it.
 
-##Purpose
+## Purpose
 What is this project seeking to answer?
 That's a good question. I'm just building it for fun but i will probably use it to make other number plate detections.
 
